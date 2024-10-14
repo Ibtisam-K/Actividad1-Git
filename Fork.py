@@ -5,7 +5,9 @@ num1 = input("Ingresa el primer número: ")
 
 num2 = input("Ingresa el segundo número: ")
 
-# Convertir las entradas a enteros (int) o flotantes (float) si son decimales
+# Nano sirve para crear y modificar archivos.
+Git para gestionar esos archivos.
+
 num1 = float(num1)
 num2 = float(num2)
 
